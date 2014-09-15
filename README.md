@@ -52,8 +52,8 @@ Navigate to the download path and start the stand alone server: http://selendroi
 $java -jar selendroid-standalone-0.11.0-with-dependencies.jar
 ```
 
-Starting test:
-==============
+Starting test
+=============
 ```
 $mvn test
 ```
