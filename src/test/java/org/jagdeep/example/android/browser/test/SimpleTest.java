@@ -2,7 +2,7 @@
  * @author jagdeepjain
  *
  */
-package com.android.browser.test;
+package org.jagdeep.example.android.browser.test;
 
 import static org.junit.Assert.*;
 
